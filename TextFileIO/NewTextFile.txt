@@ -1,0 +1,3 @@
+Hello from textWindow.
+This is lab4.
+
